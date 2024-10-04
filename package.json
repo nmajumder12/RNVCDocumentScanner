@@ -6,10 +6,10 @@
     "build": "tsc"
   },
   "dependencies": {
-    "react-native": "^0.71.0",
-    "react-native-vision-camera": "^2.10.0"
+    "react-native": "^0.73.7",
+    "react-native-vision-camera": "^4.0.1"
   },
   "devDependencies": {
-    "typescript": "^4.5.4"
+    "typescript": "^5.4.5"
   }
 }
